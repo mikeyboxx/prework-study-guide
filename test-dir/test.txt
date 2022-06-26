@@ -1,0 +1,7 @@
+total 24
+drwxr-xr-x  12 michaelnabatov  staff   384 Jun 26 14:29 .git
+-rw-r--r--   1 michaelnabatov  staff  1072 Jun 26 14:29 LICENSE
+-rw-r--r--   1 michaelnabatov  staff    21 Jun 26 14:29 README.md
+drwxr-xr-x   3 michaelnabatov  staff    96 Jun 26 14:29 assets
+-rw-r--r--   1 michaelnabatov  staff   559 Jun 26 14:29 index.html
+-rw-r--r--   1 michaelnabatov  staff     0 Jun 26 14:30 test.txt
