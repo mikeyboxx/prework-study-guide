@@ -1,7 +1,11 @@
-total 24
-drwxr-xr-x  12 michaelnabatov  staff   384 Jun 26 14:29 .git
--rw-r--r--   1 michaelnabatov  staff  1072 Jun 26 14:29 LICENSE
--rw-r--r--   1 michaelnabatov  staff    21 Jun 26 14:29 README.md
-drwxr-xr-x   3 michaelnabatov  staff    96 Jun 26 14:29 assets
--rw-r--r--   1 michaelnabatov  staff   559 Jun 26 14:29 index.html
--rw-r--r--   1 michaelnabatov  staff     0 Jun 26 14:30 test.txt
+total 0
+drwx------@  3 michaelnabatov  staff    96 Jan 31 20:45 Applications
+drwx------@ 11 michaelnabatov  staff   352 Jun 25 10:56 Desktop
+drwx------@ 13 michaelnabatov  staff   416 Apr 28 12:55 Documents
+drwx------+ 33 michaelnabatov  staff  1056 Jun 26 14:25 Downloads
+drwx------@ 82 michaelnabatov  staff  2624 Mar  1 11:18 Library
+drwx------   4 michaelnabatov  staff   128 Jan 31 21:44 Movies
+drwx------+  7 michaelnabatov  staff   224 Apr  7 21:16 Music
+drwx------+  5 michaelnabatov  staff   160 Feb 15 11:34 Pictures
+drwxr-xr-x+  4 michaelnabatov  staff   128 Jan 31 20:10 Public
+drwxr-xr-x   6 michaelnabatov  staff   192 Jun 26 20:24 bootcamp
