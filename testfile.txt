@@ -1,6 +1,0 @@
-total 24
--rw-r--r--  1 michaelnabatov  staff  1072 Jun 30 19:11 LICENSE
--rw-r--r--  1 michaelnabatov  staff   713 Jun 30 19:11 README.md
-drwxr-xr-x  5 michaelnabatov  staff   160 Jun 30 19:11 assets
--rw-r--r--  1 michaelnabatov  staff  2420 Jun 30 19:11 index.html
--rw-r--r--  1 michaelnabatov  staff     0 Jun 30 19:12 testfile.txt
