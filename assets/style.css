@@ -25,7 +25,10 @@ img {
 }
 
 ul {
+   /* padding-left: 40px;*/
     padding-left: 40px;
+    padding-bottom: 30px;
+    padding-top: 10px;
     font-size: 20px;
 }
 
@@ -40,5 +43,14 @@ p {
     border: 5px solid gray;
     box-shadow: 15px 10px #888888;
   }
+
+  a:not(:hover) {
+    color: blue;
+  }
+
+  a:hover {
+    color: red;
+  }
   
+ 
   
